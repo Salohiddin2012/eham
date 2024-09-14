@@ -1,0 +1,70 @@
+h1{
+    border-radius: 20px;
+    border: 2px solid red;
+}
+span{
+    
+}
+.de{
+    color: red;
+}
+h2{
+    color: rgb(18, 134, 0);
+}
+.me{
+    text-align: center;
+    color: rgb(10, 166, 114);
+    background-color: yellow;
+}
+img{
+    width: 700px;
+    height: 400px;
+    text-align: center;
+}
+img{
+
+}
+.ft{
+    height: 100px;
+}
+.fd{
+    background-color: yellow;
+    text-align: center;
+    color: rgb(10, 166, 114);
+
+}
+.yt{
+    color: green;
+}
+input{
+    border-radius: 20px;
+}
+button{
+    background-color: rgb(136, 136, 235);
+    font-size: 25px;
+}
+.kp{
+    text-align: center;
+    background-color: yellow;
+    color: rgb(22, 196, 22);
+}
+table{
+    border-collapse: collapse;
+    width: 1000px;
+    color: azure;
+}
+.g6{
+    background-color: black;
+}
+.d1{
+    background-color: red;
+}
+.w6{
+  background-color: green;  
+}
+.w8{
+    background-color: blue;
+}
+.p0{
+    color: azure;
+}
